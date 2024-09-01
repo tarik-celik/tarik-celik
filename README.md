@@ -1,2 +1,1 @@
-Migrated to:
-https://gitlab.com/tarik-celik
+Hi I am @tarik-celik
